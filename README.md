@@ -36,6 +36,7 @@ Used Spatial Analysis (Filled Maps & Bubble Maps) to visualize order density acr
 <img width="519" height="457" alt="image" src="https://github.com/user-attachments/assets/af80db3d-a27e-4c53-89e4-a0dd965cad9d" />
 
 Insight: While 40% of orders are concentrated in São Paulo (SP), remote states face higher shipping costs and longer lead times, highlighting a need for decentralized regional distribution centers.
+
 <img width="552" height="270" alt="image" src="https://github.com/user-attachments/assets/f471017a-3dac-4ddc-9c39-d06fcfefe580" />
 
 📈 Dashboard HighlightsInteractive Slicers: Dynamic filtering by Year, Category, and State.Drill-through Capability: Ability to move from high-level state data down to specific city-level performance.Advanced DAX: Custom measures for rolling averages and statistical correlation.
