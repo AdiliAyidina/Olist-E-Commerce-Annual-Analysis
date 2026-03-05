@@ -1,4 +1,5 @@
 Olist E-Commerce Ecosystem: Data-Driven Business Strategy Analysis
+
 📌 Project Overview
 This project provides a comprehensive Exploratory Data Analysis (EDA) of Olist, the largest department store marketplace in Brazil. By analyzing over 100,000 orders from 2016 to 2018, this interactive Power BI dashboard identifies key growth drivers, logistics bottlenecks, and customer behavioral patterns to provide actionable strategic recommendations.
 🛠️ Tech Stack
